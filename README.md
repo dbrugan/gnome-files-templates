@@ -7,7 +7,7 @@ O Ubuntu e a maioria das distribuições linux usa um ambiente desktop chamado G
 #### Via aquivo .ZIP
 1 - baixe a pasta com os arquivos desejados
 
-clique no botão 'code' em seguida, 'Download ZIP'
+clique no botão 'Code' em seguida, 'Download ZIP'
 
 2 - extraia o conteúdo
 
